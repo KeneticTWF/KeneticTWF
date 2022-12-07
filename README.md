@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeneticTWF
-- 👀 I’m interested in ... Modding things for fun (I do not disclose in Modding for unfair method of games)
-- 🌱 I’m currently learning ... To mod Blooket
+- 👀 I’m interested in ... Modding things for fun (I do not disclose in Modding for unfair method of gaming!!!!)
+- 🌱 I’m currently learning ... To Mod Blooket
 - 💞️ I’m looking to collaborate on ... Blooket ModMenu's
 - 📫 How to reach me ... kenetictwf@gmail.com
 
