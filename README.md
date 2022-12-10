@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @KeneticTWF
-- 👀 I’m interested in ... Modding things for fun (I do not disclose in Modding for unfair method of gaming!)
-- 🌱 I’m currently learning ... To Mod Blooket
-- 💞️ I’m looking to collaborate on ... Blooket ModMenu's
-- 📫 How to reach me ... kenetictwf@gmail.com
-
-<!---
-KeneticTWF/KeneticTWF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This Is The Secret Part Of My Blooket ModMenu 
+These Are Private Mods, The Only Way to Get Accsess To This Is Through My CodingBit Website 
